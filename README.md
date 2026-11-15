@@ -44,7 +44,8 @@ I'm a B.Voc Software Development graduate passionate about building practical so
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: [ www.linkedin.com/in/
+naga-murugan-developer ]
 - GitHub: https://github.com/mpnagamurugan-dot
 
 ---
